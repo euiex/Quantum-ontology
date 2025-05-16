@@ -266,3 +266,30 @@ Similarly, in our model:
 Moreover, everything we observe, sense, or measure —  
 including our brain, consciousness, and instruments of observation —  
 is already **collapsed matter**, i.e., part of the **ontological level**.
+
+## Observation Is Only Possible from Within the Collapse — Never from Within Ψ
+
+### The Materiality of Being
+
+In this model, **Being** is directly linked to **materiality**:  
+it not only arises in the moment of distinction but is also shaped  
+in a **material** (or symbolically representable) form, such as:
+
+- a neural pattern,  
+- a sensory perception,  
+- a text, sound, or movement,  
+- a registered signal on a measuring device.
+
+Thus:
+
+- $\Psi$ — immaterial, inaccessible, unformed,  
+- $\varphi_j$ — a distinguished unit of meaning,  
+- $\phi_k$ — its expression in a specific medium,  
+- **Being** = that which is accessible to distinction and materialization.
+
+**Being does not precede reduction**; it **emerges with it**.  
+It is always **secondary** in relation to $\Psi$,  
+but **primary** for all awareness and perception.
+
+> Distinction gives rise to ontological determination.
+
