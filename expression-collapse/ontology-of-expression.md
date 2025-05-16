@@ -209,9 +209,8 @@ $$
 5. **Interpretation as an additional reduction.**  
    Perception of the utterance by another consciousness $S'$ also initiates a new act of reduction:
      
-   $$
-   \varphi_k \ (\text{expression}) \to R'(\varphi_k) = \varphi'
-   $$
+ φₖ (expression) → R′(φₖ) = φ′
+
    
    Thus, every act of understanding is not "access to the same," but a reduction of the result of collapse by another operator of distinction in a different context.
 
@@ -219,8 +218,8 @@ $$
    Different forms of mediality — language, poetry, sound, drawing, bodily movement — do not initiate the reduction of $\Psi$, but participate in shaping the already distinguished content.  
    The medium is a channel for transmitting meaning, a way of its manifestation: it does not influence the act of distinction but determines the form of the final expression $\varphi_k$.  
    The collapse  
-   $$
-   \Psi_i \to \varphi_j
-   $$  
+
+Ψᵢ → φⱼ
+
    occurs before the choice of medium, but the medium shapes $\varphi_j$ into a specific form $\phi_k$.  
    Thus, the medium is not an operator of reduction, but an operator of form.
