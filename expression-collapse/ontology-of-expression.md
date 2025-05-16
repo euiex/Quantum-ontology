@@ -169,12 +169,14 @@ $$
    Even the "purest" conscious content is the result of an already occurred reduction. The differentiated $\neq$ the original. There is no "clean gaze" or neutral observational position in which $\Psi$ would manifest without distortion.
 
 4. **Language and expression do not transmit thought but constitute it as formed.**  
-   What we call an "utterance" is not a simple translation of thought into words. It is already the result of a secondary reduction ($R_2$), the imposition of expressibility structure on the reduced image. Expression is not the revelation of $\Psi$ but a reduction of a reduction:  
-   $$ \phi = R_2(\varphi_1), $$  
+   What we call an "utterance" is not a simple translation of thought into words. It is already the result of a secondary reduction ($R_2$), the imposition of expressibility structure on the reduced image. Expression is not the revelation of $\Psi$ but a reduction of a reduction:
+   
+   $$ \phi = R_2(\varphi_1), $$
+   
    analogous to a hash function.
 
-5. **The hash function is not merely a metaphor but a structural analogue.**  
+6. **The hash function is not merely a metaphor but a structural analogue.**  
    Expression fixes a finite representation from a far richer semantic field. Like a cryptographic hash function, expression is irreversible and limited. It does not allow reconstructing the original $\Psi$ and admits collisions: different $\Psi$ may yield similar $\phi$.
 
-6. **Language ambiguity is not its weakness but an ontological feature.**  
+7. **Language ambiguity is not its weakness but an ontological feature.**  
    The polysemy of any utterance is not due to negligence or imperfection of language. It results from the fact that expression arises as a reduced projection of a denser and unstructured semantic space. The finite cannot exhaust the potential.
