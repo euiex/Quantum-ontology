@@ -223,3 +223,28 @@ $$
 
    occurs before the choice of medium, but the medium shapes $\varphi_j$ into a specific form $\phi_k$.  
    Thus, the medium is not an operator of reduction, but an operator of form.
+
+   ## Being as a Result of Reduction. The Subject as Effect.
+
+### 1. Being Emerges from Reduction
+
+In this model, **Being** is not the wave function of images ($\Psi$),  
+but the result of its collapse — the distinguished content ($\varphi_j$).
+
+Before reduction, there is no form, no distinction, no observability —  
+therefore, no Being in the usual sense.
+
+$\Psi$ designates a **meta-ontological field**:  
+that which precedes Being but is not itself Being.  
+It is the **unmanifested, non-present, undifferentiated**.
+
+Being is not potentiality,  
+but **actualized form**.  
+It emerges **in the moment and as a result of collapse**:
+
+$$
+\Psi_i \xrightarrow{C} \varphi_j
+$$
+
+$\Rightarrow$ **Being is contained in $\varphi_j$ but absent from $\Psi_i$.**
+
