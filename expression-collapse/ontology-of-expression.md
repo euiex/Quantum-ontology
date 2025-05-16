@@ -189,17 +189,10 @@ $$
    Re-expressing the same wave function $\Psi_i$ is possible, but it always yields a different result. Even if the source $\Psi_i$ is preserved, its collapse may occur differently depending on conditions, operators, and formats.  
    Formally:
    
-   $$
-   \Psi_i \to C_1 \to E_1
-   $$
-   
-   $$
-   \Psi_i \to C_2 \to E_2
-   $$
-   
-   $$
-   \Psi_i \to C_3 \to E_3
-   $$
+Ψᵢ → C₁ → E₁  
+Ψᵢ → C₂ → E₂  
+Ψᵢ → C₃ → E₃  
+
    
    and so on.
 
