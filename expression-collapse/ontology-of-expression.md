@@ -39,3 +39,102 @@ The wave function of images (Ψ) is a pre-reflexive state of semantic potentiali
 
 **Remark:**  
 Even minimally conscious thought (ϕ₁) is already the result of a collapse of Ψ, i.e., its reduction to a distinguishable form.
+
+### 2. Act of Reduction and Levels of Collapse (Rᵢ: Ψ → ϕᵢ)
+
+**Definition:**  
+Reduction (Rᵢ) is an operation of manifestation, whereby from the pre-actual field (Ψ) a distinguishable form (ϕᵢ) arises. Each level of reduction (i) corresponds to a stage of concretization, manifestation, and medialization.
+
+**Examples of levels:**  
+- R₁(Ψ) = ϕ₁ — primary reduction: conscious image or thought;  
+- R₂(ϕ₁) = φ — secondary reduction: speech, text, drawing, gesture (sign fixation);  
+- R₃(φ) = E — expression fixed in a medium and accessible for interpretation by others.
+
+**Consequences:**  
+- Thought is already the result of collapse, not access to Ψ;  
+- Even "experience" is reduced;  
+- Dreams and altered states are variants of R with different operators.
+
+### 3. Expression (E)
+
+**Definition:**  
+Expression (E) is the result of secondary or tertiary reduction, fixed in a medial medium (language, gesture, sound, image, etc.). It is not merely the transmission of meaning, but a reduction of reduction.
+
+**Formally:**  
+\[ E = h(C(\Psi_i)) \]  
+where:  
+- \( C \) — compositional or conceptual structure (\( \varphi \) or \( \phi \));  
+- \( h \) — a hash function projecting the multidimensional into a constrained form.
+
+**Properties:**  
+- \( E \) is not a "copy" of \( \Psi \), but a compression;  
+- Irreversible (h is non-invertible);  
+- Subject to interpretations and collisions (different \( \Psi \) → similar \( E \)).
+
+### 4. Reduction Hash Function (h)
+
+**Definition:**  
+The hash function (h) is a metaphor for the act of reduction, by which a complex, multidimensional structure of semantic potentiality is mapped into a limited, fixed expression space.
+
+**Properties:**  
+- **One-way:** it is impossible to reconstruct \( \Psi \) from \( E \);  
+- **Collisions:** different \( \Psi \) can produce identical \( E \);  
+- **Low resolution:** loss of semantic completeness.
+
+### 5. Distinction Operator (O)
+
+**Definition:**  
+The distinction operator (O) is a logically necessary condition for the possibility of the collapse \( \Psi \to \varphi \). It does not produce distinction but makes it possible.
+
+**Formally:**  
+\[
+\varphi_i = R_i O
+\]
+
+**What \( O \) is not:**  
+- Not a subject, not an observer, not a psychic mechanism;  
+- Not a structure, not localized in the brain, has no nature;  
+- Does not act, choose, or exist in time.
+
+**How to think about \( O \):**  
+- A logical threshold of distinction, not a being;  
+- An apophatic construct — cannot be positively defined;  
+- A condition for the possibility of any actualization;  
+- The boundary between the pre-ontological and the ontological.
+
+### 6. Consciousness (S)
+
+**Definition:**  
+Consciousness (S) is the interface where the results of the reduction of \( \Psi \) are fixed, but it is not the source of the reduction itself.
+
+**Formally:**  
+\[
+S(R_i(\Psi)) = \text{mapping of } \varphi_i \text{ into subjective experience}
+\]
+
+**Remarks:**  
+- Consciousness is a screen, not a projector;  
+- Not an observer, but a zone of manifestation;  
+- Cannot "return" to \( \Psi \), only fixes its collapses.
+
+---
+
+**Summary scheme of processes:**
+
+\[
+\Psi \quad \text{— wave function of images (semantic potentiality)}
+\]
+
+\[
+\downarrow R_1[O]
+\]
+
+\[
+\varphi_1 \quad \text{— primary reduction (mental image)}
+\]
+
+\[
+\downarrow R_2
+\]
+
+\
