@@ -248,3 +248,21 @@ $$
 
 $\Rightarrow$ **Being is contained in $\varphi_j$ but absent from $\Psi_i$.**
 
+## A Metaphor from Quantum Mechanics
+
+In quantum physics, the wave function ($\psi$) describes a state of **potentiality** —  
+a set of possible states of a system.  
+Before measurement (observation), a particle does not possess definite properties  
+(such as position or momentum); it exists as a **superposition of possibilities**.
+
+The **collapse of the wave function** due to measurement leads to the actualization of one of these possible states.  
+This act marks the transition from **potentiality to actuality**,  
+from **possibility to Being**.
+
+Similarly, in our model:
+- $\Psi$ is the field of **pre-ontological potentiality**,
+- $\varphi_j$ is the **result of an act of distinction**, becoming part of Being.
+
+Moreover, everything we observe, sense, or measure —  
+including our brain, consciousness, and instruments of observation —  
+is already **collapsed matter**, i.e., part of the **ontological level**.
