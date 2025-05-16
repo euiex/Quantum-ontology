@@ -137,4 +137,22 @@ S(R_i(\Psi)) = \text{mapping of } \varphi_i \text{ into subjective experience}
 \downarrow R_2
 \]
 
-\
+\[
+\phi \quad \text{— secondary reduction (sign form)}
+\]
+
+\[
+\downarrow h
+\]
+
+\[
+E \quad \text{— expression (fixed utterance, text, drawing, etc.)}
+\]
+
+\[
+\downarrow \text{interpretation}
+\]
+
+\[
+S \quad \text{— mapping of expression into consciousness}
+\]
