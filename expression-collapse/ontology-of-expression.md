@@ -344,3 +344,27 @@ in which meaning precedes and exists independently of form.
 Here, **meaning is what arises through formation**.  
 It is precisely **expression** that manifests **both meaning and being** simultaneously.
 
+### 4. The Subject Is Not the Cause but the Effect of Reduction
+
+Consciousness (or the subject) in this model is **not** a transcendental observer (as in Descartes or Kant),  
+nor a creative mind (as in some versions of "quantum consciousness").  
+The **subject is an immanent node** where the collapse occurs:
+
+$$ \Psi \to \varphi_j \to \varphi_k $$
+
+It is not the initiator of reduction, but rather **emerges as its function**:
+- It does **not** precede differentiation, but takes form **within it**.
+- It is **not** the cause of meaning, but the **interface configuration** of meaning.
+- It is **not** an observer, but the **point where potentiality becomes actuality**.
+
+Reduction process within a localized node:
+
+$$ \Psi \xrightarrow{O} \text{possibility of distinction} \xrightarrow{C \text{ (at a specific node)}} \varphi_j \to \varphi_k $$
+
+Where:
+- $\varphi_k$ is the interface-based formation (consciousness, language, body, etc.).
+
+Thus, **the subject is a localized modality of distinction**,  
+not an autonomous bearer of reason.  
+It does not produce being,  
+but arises **within already-collapsed being** as a specific mode of fixation of the distinguished content.
