@@ -320,3 +320,27 @@ $$ \Psi_i \xrightarrow{O} \text{possibility of distinction} \xrightarrow{C} \var
   and cannot be ontologically asserted.  
   We do not deny existence beyond experience,  
   but we claim that **existence and experience co-arise** in the act of distinction.
+### 3. Meaning Does Not Precede Expression — It Emerges Within It
+
+There is no “pure” idea prior to its expression.  
+**Expression** ($\varphi_k$) is **not** a secondary representation,  
+but the **primary ontological manifestation** of the distinguished content ($\varphi_j$).  
+**Meaning and form arise simultaneously**:  
+Expression is not the result of meaning — it is its ontological formation.
+
+In this model, meaning is **not** a pre-existing essence,  
+but the **result of collapse**, i.e. the formation of distinguished content into a specific form:
+
+$$ \Psi_i \to O \to \varphi_j \to \varphi_k $$
+
+Before expression, there is no ontologically determinate meaning.  
+Only at the moment when the distinguished content receives a form does meaning arise.
+
+In other words:  
+**Form does not express meaning — form makes meaning.**
+
+This model is the opposite of the classical (Platonic) one,  
+in which meaning precedes and exists independently of form.  
+Here, **meaning is what arises through formation**.  
+It is precisely **expression** that manifests **both meaning and being** simultaneously.
+
