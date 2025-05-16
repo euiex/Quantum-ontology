@@ -117,42 +117,40 @@ S(R_i(\Psi)) = \text{mapping of } \varphi_i \text{ into subjective experience}
 - Not an observer, but a zone of manifestation;  
 - Cannot "return" to \( \Psi \), only fixes its collapses.
 
----
+### Summary scheme of processes:
 
-**Summary scheme of processes:**
-
-\[
+$$
 \Psi \quad \text{— wave function of images (semantic potentiality)}
-\]
+$$
 
-\[
+$$
 \downarrow R_1[O]
-\]
+$$
 
-\[
+$$
 \varphi_1 \quad \text{— primary reduction (mental image)}
-\]
+$$
 
-\[
+$$
 \downarrow R_2
-\]
+$$
 
-\[
+$$
 \phi \quad \text{— secondary reduction (sign form)}
-\]
+$$
 
-\[
+$$
 \downarrow h
-\]
+$$
 
-\[
+$$
 E \quad \text{— expression (fixed utterance, text, drawing, etc.)}
-\]
+$$
 
-\[
+$$
 \downarrow \text{interpretation}
-\]
+$$
 
-\[
+$$
 S \quad \text{— mapping of expression into consciousness}
-\]
+$$
