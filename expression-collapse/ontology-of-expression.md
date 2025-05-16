@@ -172,7 +172,7 @@ $$
    What we call an "utterance" is not a simple translation of thought into words. It is already the result of a secondary reduction ($R_2$), the imposition of expressibility structure on the reduced image. Expression is not the revelation of $\Psi$ but a reduction of a reduction:
    
 $$
-\phi = R_2(\varphi_1)
+\phi = R_2(\varphi_1)}
 $$
    
    analogous to a hash function.
