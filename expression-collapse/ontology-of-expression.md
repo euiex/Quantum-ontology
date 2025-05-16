@@ -187,7 +187,8 @@ $$
 
 1. **Repeated reduction is possible but not identical.**  
    Re-expressing the same wave function $\Psi_i$ is possible, but it always yields a different result. Even if the source $\Psi_i$ is preserved, its collapse may occur differently depending on conditions, operators, and formats.  
-   Formally:  
+   Formally:
+   
    $$
    \Psi_i \to C_1 \to E_1
    $$
@@ -199,24 +200,24 @@ $$
    $$
    and so on.
 
-2. **Multiplicity of media = multiplicity of expressions.**  
+3. **Multiplicity of media = multiplicity of expressions.**  
    The same pre-reflexive wave function $\Psi_i$ can be reduced into various media:  
    poetry, mathematics, bodily movement, visual art, sound.  
    Each of these expressions $E_k$ is not a "translation" of the same content but its unique manifestation.
 
-3. **Impossibility of exact reproducibility.**  
+4. **Impossibility of exact reproducibility.**  
    Since reduction is not an invertible function, the attempt to "say the same thing in different words" leads to a new reduced state.  
    Even with apparent reproducibility of form, the collapse happens anew:  
    each time — a new $\varphi_k$.
 
-4. **Interpretation as an additional reduction.**  
+5. **Interpretation as an additional reduction.**  
    Perception of the utterance by another consciousness $S'$ also initiates a new act of reduction:  
    $$
    \varphi_k \ (\text{expression}) \to R'(\varphi_k) = \varphi'
    $$  
    Thus, every act of understanding is not "access to the same," but a reduction of the result of collapse by another operator of distinction in a different context.
 
-5. **The medium shapes but does not cause the collapse.**  
+6. **The medium shapes but does not cause the collapse.**  
    Different forms of mediality — language, poetry, sound, drawing, bodily movement — do not initiate the reduction of $\Psi$, but participate in shaping the already distinguished content.  
    The medium is a channel for transmitting meaning, a way of its manifestation: it does not influence the act of distinction but determines the form of the final expression $\varphi_k$.  
    The collapse  
