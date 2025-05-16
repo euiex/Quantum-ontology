@@ -106,11 +106,10 @@ The distinction operator (O) is a logically necessary condition for the possibil
 
 **Definition:**  
 Consciousness ($S$) is the interface where the results of the reduction of $\Psi$ are fixed, but it is not the source of the reduction itself.
-
+ 
 **Formally:**  
-$$
-S(R_i(\Psi)) = \text{mapping of } \varphi_i \text{ into subjective experience}
-$$
+$S(R_i(\Psi)) = \text{mapping of } \varphi_i \text{ into subjective experience}$
+
 
 **Remarks:**  
 
