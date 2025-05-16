@@ -113,9 +113,11 @@ S(R_i(\Psi)) = \text{mapping of } \varphi_i \text{ into subjective experience}
 \]
 
 **Remarks:**  
-- Consciousness is a screen, not a projector;  
-- Not an observer, but a zone of manifestation;  
-- Cannot "return" to \( \Psi \), only fixes its collapses.
+
+Consciousness is a screen, not a projector;  
+Not an observer, but a zone of manifestation;  
+Cannot "return" to $\Psi$, only fixes its collapses.
+
 
 ### Summary scheme of processes:
 
