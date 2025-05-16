@@ -293,3 +293,30 @@ but **primary** for all awareness and perception.
 
 > Distinction gives rise to ontological determination.
 
+### 2. Distinction Generates Ontological Determinacy
+
+The act of distinction (operator **C**) produces not just knowledge,  
+but the **very existence** of something as determinate:
+
+$$ \Psi_i \xrightarrow{C} \varphi_j $$
+
+Before distinction, there is **no object**, **no meaning**, **no form**.  
+There is only the wave function $\Psi$ in a state of **superposition** —  
+of **possibility**, but not of **existence**.
+
+The **operator of distinction** (**O**) is a **precondition**,  
+a **possibility of distinction**, but **not the source** of ontological form itself.  
+Only the **act** of **C** actualizes distinguished content:
+
+$$ \Psi_i \xrightarrow{O} \text{possibility of distinction} \xrightarrow{C} \varphi_j $$
+
+**Implications:**
+
+- **Ontology and epistemology** are inseparable here:  
+  To be is to be distinguished — that is, to undergo the act **C**.
+
+- This **rejects Kant’s “thing-in-itself”**:  
+  That which is not distinguished **does not yet exist**  
+  and cannot be ontologically asserted.  
+  We do not deny existence beyond experience,  
+  but we claim that **existence and experience co-arise** in the act of distinction.
