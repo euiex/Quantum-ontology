@@ -155,3 +155,26 @@ $$
 $$
 S \quad \text{— mapping of expression into consciousness}
 $$
+
+
+## III. Key Theses
+
+1. **Thought is not the originating moment but merely the result of reduction.**  
+   What we recognize as "thought," "experience," or "image" does not precede but rather follows the primary reduction ($R_1$) of the wave function of images ($\Psi$). Consciousness encounters not $\Psi$ itself, but $\varphi_1$ — an already collapsed form behind which lies an opaque depth of potentiality.
+
+2. **$\Psi$ cannot be directly observed.**  
+   The wave function of images is neither an object, nor a structure, nor a set. It is a pre-differentiated field of potential meaning formation. It is inaccessible in its pure form because its nature is pre-actuality. We cannot "think" $\Psi$ because thought itself is already a collapse, a differentiated form.
+
+3. **Awareness is not a transparent access to the foundation.**  
+   Even the "purest" conscious content is the result of an already occurred reduction. The differentiated $\neq$ the original. There is no "clean gaze" or neutral observational position in which $\Psi$ would manifest without distortion.
+
+4. **Language and expression do not transmit thought but constitute it as formed.**  
+   What we call an "utterance" is not a simple translation of thought into words. It is already the result of a secondary reduction ($R_2$), the imposition of expressibility structure on the reduced image. Expression is not the revelation of $\Psi$ but a reduction of a reduction:  
+   $$ \phi = R_2(\varphi_1), $$  
+   analogous to a hash function.
+
+5. **The hash function is not merely a metaphor but a structural analogue.**  
+   Expression fixes a finite representation from a far richer semantic field. Like a cryptographic hash function, expression is irreversible and limited. It does not allow reconstructing the original $\Psi$ and admits collisions: different $\Psi$ may yield similar $\phi$.
+
+6. **Language ambiguity is not its weakness but an ontological feature.**  
+   The polysemy of any utterance is not due to negligence or imperfection of language. It results from the fact that expression arises as a reduced projection of a denser and unstructured semantic space. The finite cannot exhaust the potential.
