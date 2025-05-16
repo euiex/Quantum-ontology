@@ -23,3 +23,19 @@ In this approach, the relationships between the following concepts need to be re
 
 The aim of this work is to construct an ontology of expression, where expression is regarded as a primary process generating the distinction between potential and actual, between multidimensional and articulated, between pre-conscious and manifested. We will show that in this context expression is not merely a means of communication but a fundamental mechanism of meaning manifestation.
 
+## II. Formalization of Terms
+
+### 1. Wave Function of Images (Ψ)
+
+**Definition:**  
+The wave function of images (Ψ) is a pre-reflexive state of semantic potentiality, preceding any act of thinking, perception, or differentiation. Ψ is not what we think or see, but the source from which thought, image, or form can be collapsed.
+
+**Properties:**  
+- Inaccessible to consciousness in its pure form;  
+- Neither discrete nor quantized;  
+- Does not obey the logic of identity (A ≠ A);  
+- Characterized by intensities and tensions (in the spirit of Simondon and Deleuze);  
+- Serves as the horizon of semantic potentiality.
+
+**Remark:**  
+Even minimally conscious thought (ϕ₁) is already the result of a collapse of Ψ, i.e., its reduction to a distinguishable form.
