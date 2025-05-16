@@ -192,12 +192,15 @@ $$
    $$
    \Psi_i \to C_1 \to E_1
    $$
+   
    $$
    \Psi_i \to C_2 \to E_2
    $$
+   
    $$
    \Psi_i \to C_3 \to E_3
    $$
+   
    and so on.
 
 3. **Multiplicity of media = multiplicity of expressions.**  
